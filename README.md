@@ -1,6 +1,6 @@
 # Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Angelicola Saverio and I am a computer science student and also self taught in software development. I live in France in Strasbourg. You can find me on [![LinkedIn][3.2]][3]
+My name is Angelicola Saverio and I'm a .Net developer. I live in France in Strasbourg. You can find me on [![LinkedIn][3.2]][3]
 
 ## &#x270d; Portfolio
 
