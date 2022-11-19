@@ -2,11 +2,6 @@
 
 My name is Angelicola Saverio and I'm a .Net developer. I live in France in Strasbourg. You can find me on [![LinkedIn][3.2]][3]
 
-## &#x270d; Portfolio
-
-
-I also have a portfolio on my website [angelicola-saverio.fr](https://www.angelicola-saverio.fr)
-
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Editor-Visual_Studio-informational?style=flat&logo=visual-studio&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=C-sharp&logoColor=white&color=2bbc8a)
