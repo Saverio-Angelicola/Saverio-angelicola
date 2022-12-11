@@ -1,6 +1,6 @@
 # Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Angelicola Saverio and I'm a .Net developer. I live in France in Strasbourg. You can find me on [![LinkedIn][3.2]][3]
+My name is Angelicola Saverio and I'm a .Net developer. I live in France in Strasbourg. You can find me on Linkedin[3.2]][3]
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Editor-Visual_Studio-informational?style=flat&logo=visual-studio&logoColor=white&color=2bbc8a)
