@@ -6,7 +6,7 @@ My name is Angelicola Saverio and I'm a Fullstack developer. I live in France in
 ![](https://img.shields.io/badge/Editor-Visual_Studio-informational?style=flat&logo=visual-studio&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=C-sharp&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-.Net-informational?style=flat&logo=.net&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Vue.js-informational)
+![](https://img.shields.io/badge/Code-Angular-informational)
 ![](https://img.shields.io/badge/Code-Typescript-informational%3Fstyle%3Dflat%26logo%3DTypescirpt%26logoColor%3Dwhite%26color%3D2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
