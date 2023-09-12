@@ -1,13 +1,11 @@
 # Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Angelicola Saverio and I'm a Fullstack developer. I live in France in Strasbourg. You can find me on [Linkedin][3]
+My name is Angelicola Saverio and I'm a Backend developer. I live in France in Strasbourg. You can find me on [Linkedin][3]
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Editor-Rider-informational?style=flat&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=C-sharp&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-.Net-informational?style=flat&logo=.net&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Angular-informational)
-![](https://img.shields.io/badge/Code-Typescript-informational%3Fstyle%3Dflat%26logo%3DTypescirpt%26logoColor%3Dwhite%26color%3D2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
